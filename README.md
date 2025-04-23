@@ -1,12 +1,39 @@
-# React + Vite
+# 🌐 My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio repository! This project showcases my skills, experience, and the projects I’ve worked on. It is built to reflect my journey as a developer and serve as a digital resume.
 
-Currently, two official plugins are available:
+## 🚀 About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Hi, I'm Sartaj Hajam, a passionate Software Engineer  with experience in:
+- Full Stack Development (MERN Stack)
+- Blockchain Technologies
+- UI/UX Design
+- ML Development 
 
-## Expanding the ESLint configuration
+I love building modern, responsive web applications and continuously learning new technologies.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- **Frontend:** React, Tailwind CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB , Postgres,MYSQL
+- **Others:** Git, GitHub, Figma, Postman , AWS
+
+
+## 📂 Structure
+
+This portfolio includes:
+- A homepage introducing who I am
+- A projects section featuring my work
+- A contact form to reach out
+
+
+## 🔧 Setup Instructions
+
+To run this locally:
+
+```bash
+git clone https://github.com/yourusername/your-portfolio-repo.git
+cd your-portfolio-repo
+npm install
+npm start
